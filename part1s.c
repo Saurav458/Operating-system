@@ -1,3 +1,6 @@
+//This is the part one of code in which i take user input and declaring variables,array.
+
+
 #include<stdio.h> 
  
 int main() 
