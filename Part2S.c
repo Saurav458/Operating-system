@@ -1,4 +1,6 @@
- case 2:{
+//Second Part of code 
+
+case 2:{
         M_again:
         system("clear");
         printf("\t");
