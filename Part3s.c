@@ -1,4 +1,4 @@
-// Third Part 
+// Third Part of code
 
 case 3:{
         printf("\nThank you for using this Program.....\n");
