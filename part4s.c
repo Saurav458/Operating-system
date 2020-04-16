@@ -1,3 +1,5 @@
+// 4th Part 
+
 if(sjf_run==0){
     for(i=0;i<n;i++)
     { if((a[i]<=time_slice && b[i]<=min && b[i]>0)||min==0){
