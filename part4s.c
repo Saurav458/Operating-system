@@ -1,4 +1,4 @@
-// 4th Part 
+// 4th Partof code 
 
 if(sjf_run==0){
     for(i=0;i<n;i++)
